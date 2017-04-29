@@ -1,0 +1,9 @@
+{
+  "name": "react-traning",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd client && yarn install",
+    "dev": "echo 'visit http://localhost:3000' && cd client && yarn run dev"
+  }
+}
